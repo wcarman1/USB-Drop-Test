@@ -19,3 +19,10 @@ Load up your USB drive (not sure if it matters but mine was formated to ntfs) wi
 
 How it works:
 When inserted and opened in explorer it reaches out to the server you input into the .url file to request the icon while giving you the requester's username and hostname so you can follow up with them and provide remedial training.
+
+
+# Tip
+
+I usually attache a lanyard and some old keys to make it look like a personal item. I also add additional dummy files like excel does and stock photos to the USB drive.
+
+I also like to include documents from CISA like https://us-cert.cisa.gov/sites/default/files/publications/RisksOfPortableDevices.pdf on the drive.
