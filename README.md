@@ -13,6 +13,9 @@ Then tail the access file
 
 tail -f /var/log/apache2/access.log
 
-In the leak.url file, edit the "ip of webserver" section with the ip or hostname of the apache server you are monitoring and save it.
+In the leak.url file, edit the "ip of webserver" section with the ip or hostname of the apache server you are monitoring and save it. on the USB right click on the .url file and go to properties, General, check the "Hidden" box.
 
-load up your USB drive (not sure if it matters but mine was formated to ntfs) with the .url file. All this does is, when inserted and opened in explorer it reaches out to the server you input into the file to request the icon file while giving you their username and hostname so you can follow up with them and provide remedial training.
+Load up your USB drive (not sure if it matters but mine was formated to ntfs) with the .url file. 
+
+How it works:
+When inserted and opened in explorer it reaches out to the server you input into the .url file to request the icon while giving you the requester's username and hostname so you can follow up with them and provide remedial training.
