@@ -7,11 +7,11 @@ All you need is an apache webserver and a USB drive. I used apache2 on a kali li
 
 On your Kali system, start apache2
 
-systemctl start apache2
+```systemctl start apache2```
 
 Then tail the access file
 
-tail -f /var/log/apache2/access.log
+```tail -f /var/log/apache2/access.log```
 
 In the leak.url file, edit the "ip of webserver" section with the ip or hostname of the apache server you are monitoring and save it. on the USB right click on the .url file and go to properties, General, check the "Hidden" box.
 
