@@ -20,6 +20,8 @@ Load up your USB drive (not sure if it matters but mine was formated to ntfs) wi
 How it works:
 When inserted and opened in explorer it reaches out to the server you input into the .url file to request the icon while giving you the requester's username and hostname so you can follow up with them and provide remedial training. If they click on the link it brings them to CISA's tips on USB devices. https://us-cert.cisa.gov/ics/tips/CSAR-10-114-02
 
+A note: it is not immediate that the PC reaches out for the icon so it does take a couple seconds for it to appear in the apache logs.
+
 
 # Tip
 
