@@ -18,7 +18,7 @@ In the leak.url file, edit the "ip of webserver" section with the ip or hostname
 Load up your USB drive (not sure if it matters but mine was formated to ntfs) with the .url file. 
 
 How it works:
-When inserted and opened in explorer it reaches out to the server you input into the .url file to request the icon while giving you the requester's username and hostname so you can follow up with them and provide remedial training.
+When inserted and opened in explorer it reaches out to the server you input into the .url file to request the icon while giving you the requester's username and hostname so you can follow up with them and provide remedial training. If they click on the link it brings them to CISA's tips on USB devices. https://us-cert.cisa.gov/ics/tips/CSAR-10-114-02
 
 
 # Tip
