@@ -22,6 +22,11 @@ When inserted and opened in explorer it reaches out to the server you input into
 
 A note: it is not immediate that the PC reaches out for the icon so it does take a couple seconds for it to appear in the apache logs.
 
+Once working you will see apache logs like this
+
+```<ip address of pc> -- [Time and date] "PROPFIND /webdav/HOSTNAME/USERNAME/usb.ico HTTP/1.1" 4055 560 "-" "Microsoft-WebDEV-MiniRedir/10.0.19043"```
+
+I have confirmed this to be working on Windows 10 Pro.
 
 # Tip
 
