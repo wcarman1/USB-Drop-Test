@@ -26,3 +26,5 @@ When inserted and opened in explorer it reaches out to the server you input into
 I usually attache a lanyard and some old keys to make it look like a personal item. I also add additional dummy files like excel does and stock photos to the USB drive.
 
 I also like to include documents from CISA like https://us-cert.cisa.gov/sites/default/files/publications/RisksOfPortableDevices.pdf on the drive.
+
+If you drop multiple usb(s) you can add a number to the request string. example '''...\usb-1.ico''' to track where you dropped it to which PC it ended up getting plugged into.
